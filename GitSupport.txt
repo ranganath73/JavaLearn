@@ -1,0 +1,21 @@
+
+First do this:
+==============
+
+   1. git config --global user.name="K.Ranganathan Kasiganesan"
+
+   2. git config --global user.email="ranganath73@gmail.com"
+
+   3. git commit -m "My first commit."
+
+
+   Step: 1
+   -------
+        https://github.com/settings/tokens
+        
+
+   Installing JDK on Ubuntu wsl
+   ----------------------------
+
+   $ sudo apt update
+   $ sudo apt install openjdk-17-jdk
